@@ -1,3 +1,3 @@
-# ZohoMail desktop: Unofficial desktop client for Zoho Mail
-Created by Arne Govaerts
-Licensed under EUPL v1.2
+#ZohoMail Unofficial desktop app
+Created by Arne Govaerts for use with [Electron](https://electronjs.org/).
+Licensed under EUPL v1.2.

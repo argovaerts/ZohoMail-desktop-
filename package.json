@@ -1,0 +1,14 @@
+{
+  "name": "zoho-electron",
+  "version": "0.0.1",
+  "description": "Runs the Zoho website in handy desktop view",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Arne Govaerts",
+  "license": "EUPL v1.2",
+  "devDependencies": {
+    "electron": "^2.0.0"
+  }
+}
